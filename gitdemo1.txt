@@ -1,1 +1,8 @@
-git init
+git init (create git file)
+git status (check git status/ see change)
+git add filename (add file to staging area)
+git commit -m "this is note" (push file to git)
+git add . (add all files to staging area)
+git log (see git history)
+git diff filename (see differences in file)
+git checkout filename (rollback to last commit)
