@@ -1,1 +1,5 @@
-This is git demo 2
+Github and Remote Repositories:
+1. git remote add origin https://github.com/yuliussetyawan/git_demo.git
+2. git push -u origin master (origin is the name of the remote, master is the name of the branch)
+
+
